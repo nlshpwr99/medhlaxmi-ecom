@@ -1226,6 +1226,8 @@
        immediately after the control sidebar -->
   <div class="control-sidebar-bg"></div>
 </div>
+
+
 <!-- ./wrapper -->
 
 <script src="${adcss}/bower_components/jquery/dist/jquery.min.js"></script>
